@@ -1,0 +1,8 @@
+C:\Users\i.ülgür\source\repos\Doruk\Doruk\bin\Debug\Doruk.exe
+C:\Users\i.ülgür\source\repos\Doruk\Doruk\bin\Debug\Doruk.pdb
+C:\Users\i.ülgür\source\repos\Doruk\Doruk\obj\Debug\Doruk.csprojAssemblyReference.cache
+C:\Users\i.ülgür\source\repos\Doruk\Doruk\obj\Debug\Doruk.Form1.resources
+C:\Users\i.ülgür\source\repos\Doruk\Doruk\obj\Debug\Doruk.Properties.Resources.resources
+C:\Users\i.ülgür\source\repos\Doruk\Doruk\obj\Debug\Doruk.csproj.GenerateResource.cache
+C:\Users\i.ülgür\source\repos\Doruk\Doruk\obj\Debug\Doruk.exe
+C:\Users\i.ülgür\source\repos\Doruk\Doruk\obj\Debug\Doruk.pdb
